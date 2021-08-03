@@ -1,0 +1,7 @@
+name: "mspaintdustry"
+displayName: "MSPaintdustry"
+author: "RandomRA2"
+description: "Turns every unit into badly drawn MS painted images \nContributors: zandrewNoob \n[orange]W.I.P, expect the majority of the sprites to look normal"
+version: "0.1"
+minGameVersion: "105"
+hidden: "true"
