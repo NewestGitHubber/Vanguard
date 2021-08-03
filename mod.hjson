@@ -4,4 +4,4 @@ author: "Vanguard"
 description: "Vanguard"
 version: "anguard"
 minGameVersion: "105"
-hidden: "true"
+hidden: false
