@@ -9,7 +9,7 @@ hitSize: 7.5
 rotateShooting: false
 commandLimit: 8
 omniMovement: false
-rotateSpeed: 2.7
+rotateSpeed: 2.5
 trailLength: 15
 weapons: [
  {
