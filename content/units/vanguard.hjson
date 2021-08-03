@@ -1,7 +1,7 @@
 localizedName: "Vanguard"
 description: "Vanguard"
 health: 160
-speed: 1.3
+speed: 1.25
 drag: 0.13
 accel: 0.5
 type: naval
@@ -10,6 +10,7 @@ rotateShooting: false
 commandLimit: 8
 omniMovement: false
 rotateSpeed: 2.7
+trailLength: 15
 weapons: [
  {
  name: mount-weapon
